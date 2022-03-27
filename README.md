@@ -6,10 +6,10 @@ FreeCodeCamp Spring Boot REST API with Postgres backend containerized with Docke
 **Postgres Docker Connection:**<br>
 start up the postgres docker container
 
-**log into postgres use the command:**
+**log into postgres use the command:**  
 psql -U postgres
 
-**view all databases:**
+**view all databases:**  
 \l
 
 **switch databases:**
