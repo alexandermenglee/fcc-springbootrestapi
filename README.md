@@ -12,6 +12,6 @@ psql -U postgres
 **view all databases:**  
 \l
 
-**switch databases:**
+**switch databases:**  
 \c {database name}
 \c demodb
