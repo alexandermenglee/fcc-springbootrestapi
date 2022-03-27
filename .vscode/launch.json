@@ -1,0 +1,26 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-FccSpringBooDemoApplication<fcc-spring-boo-demo>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "com.xandxr.fccspringboodemo.FccSpringBooDemoApplication",
+            "projectName": "fcc-spring-boo-demo",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        },
+        {
+            "type": "java",
+            "name": "Spring Boot-FccSpringBootDemoApplication<fcc-spring-boo-demo>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "com.xandxr.fccspringboodemo.FccSpringBootDemoApplication",
+            "projectName": "fcc-spring-boo-demo",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
